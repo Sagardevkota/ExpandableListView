@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="heading_titles">
+        <item>Mens Fashion</item>
+        <item>Womens Fashion</item>
+        <item>Babys Fashion</item>
+
+    </string-array>
+    <string-array name="h1_items">
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Watches</item>
+
+    </string-array>
+    <string-array name="h2_items">
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Watches</item>
+
+    </string-array>
+    <string-array name="h3_items">
+        <item>Clothes</item>
+        <item>Shoes</item>
+        <item>Watches</item>
+
+    </string-array>
+
+
+</resources>
